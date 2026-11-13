@@ -30,7 +30,7 @@ Spotplayer_task_mager/
 │   requirements.txt
 │   tasks.py
 │
-├───images/
+├────images/
 │       ezgif-speed.gif
 │___       spotplayer_task_manager.png
 
